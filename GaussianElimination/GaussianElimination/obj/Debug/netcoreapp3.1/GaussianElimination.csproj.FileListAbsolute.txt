@@ -1,0 +1,13 @@
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\bin\Debug\netcoreapp3.1\GaussianElimination.exe
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\bin\Debug\netcoreapp3.1\GaussianElimination.deps.json
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\bin\Debug\netcoreapp3.1\GaussianElimination.runtimeconfig.json
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\bin\Debug\netcoreapp3.1\GaussianElimination.runtimeconfig.dev.json
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\bin\Debug\netcoreapp3.1\GaussianElimination.dll
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\bin\Debug\netcoreapp3.1\GaussianElimination.pdb
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\obj\Debug\netcoreapp3.1\GaussianElimination.csproj.AssemblyReference.cache
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\obj\Debug\netcoreapp3.1\GaussianElimination.AssemblyInfoInputs.cache
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\obj\Debug\netcoreapp3.1\GaussianElimination.AssemblyInfo.cs
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\obj\Debug\netcoreapp3.1\GaussianElimination.csproj.CoreCompileInputs.cache
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\obj\Debug\netcoreapp3.1\GaussianElimination.dll
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\obj\Debug\netcoreapp3.1\GaussianElimination.pdb
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussianElimination\GaussianElimination\obj\Debug\netcoreapp3.1\GaussianElimination.genruntimeconfig.cache

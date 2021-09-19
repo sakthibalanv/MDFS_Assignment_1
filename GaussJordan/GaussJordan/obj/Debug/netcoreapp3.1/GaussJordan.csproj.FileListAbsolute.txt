@@ -1,0 +1,13 @@
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\bin\Debug\netcoreapp3.1\GaussJordan.exe
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\bin\Debug\netcoreapp3.1\GaussJordan.deps.json
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\bin\Debug\netcoreapp3.1\GaussJordan.runtimeconfig.json
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\bin\Debug\netcoreapp3.1\GaussJordan.runtimeconfig.dev.json
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\bin\Debug\netcoreapp3.1\GaussJordan.dll
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\bin\Debug\netcoreapp3.1\GaussJordan.pdb
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\obj\Debug\netcoreapp3.1\GaussJordan.csproj.AssemblyReference.cache
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\obj\Debug\netcoreapp3.1\GaussJordan.AssemblyInfoInputs.cache
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\obj\Debug\netcoreapp3.1\GaussJordan.AssemblyInfo.cs
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\obj\Debug\netcoreapp3.1\GaussJordan.csproj.CoreCompileInputs.cache
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\obj\Debug\netcoreapp3.1\GaussJordan.dll
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\obj\Debug\netcoreapp3.1\GaussJordan.pdb
+E:\MTech\Semester 1\Mathematical Foundations for Data Science\Assignment1\GaussJordan\GaussJordan\obj\Debug\netcoreapp3.1\GaussJordan.genruntimeconfig.cache
